@@ -11,6 +11,12 @@
 # WWW:  http://www.rezic.de/eserte/
 #
 
+=head1 NAME
+
+CPAN::Test::Dummy::Perl5::BuildRequires - Dummy test module with a build_requires dependency
+
+=cut
+
 package CPAN::Test::Dummy::Perl5::BuildRequires;
 
 use strict;
